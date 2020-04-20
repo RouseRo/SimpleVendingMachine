@@ -1,0 +1,13 @@
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.exe
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.deps.json
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.runtimeconfig.json
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.runtimeconfig.dev.json
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.dll
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\bin\Debug\netcoreapp3.1\SimpleVendingMachine.pdb
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.AssemblyInfoInputs.cache
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.AssemblyInfo.cs
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.dll
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.pdb
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.genruntimeconfig.cache
+C:\Users\rober_000\Source\Repos\SimpleVendingMachine\obj\Debug\netcoreapp3.1\SimpleVendingMachine.csprojAssemblyReference.cache
